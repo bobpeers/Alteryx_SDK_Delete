@@ -4,7 +4,7 @@ Custom Alteryx tool to delete files from the filesystem
 ## Installation
 Download the yxi file and double click to install in Alteyrx. The tool will be installed in the __File System__ category.
 
-![alt text](https://github.com/bobpeers/Alteryx_SDK_Delete/blob/master/imagesDelete_toolbar.png "Alteryx File System Category")
+![alt text](https://github.com/bobpeers/Alteryx_SDK_Delete/blob/master/images/Delete_toolbar.png "Alteryx File System Category")
 
 ## Requirements
 
