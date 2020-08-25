@@ -12,8 +12,8 @@
   </GuiSettings>
   <Properties>
     <MetaInfo>
-      <Name>File Deleter</Name>
-      <Description>Deletes files matching the specified formats from the supplied directory</Description>
+      <Name>File Delete</Name>
+      <Description>Deletes files from the file system. Takes the full path to the files as input.</Description>
       <CategoryName>File System</CategoryName>
       <SearchTags>python, files, delete</SearchTags>
       <ToolVersion>1.0</ToolVersion>
