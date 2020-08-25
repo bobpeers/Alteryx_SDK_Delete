@@ -13,6 +13,10 @@ This tool uses the standard Python libraries so no dependencies will be installe
 ## Usage
 This tool accepts a single input. The tool should be mapped to the full path of the files to delete, usually provided by placing a Directory tool before this tool.
 
+| __WARNING__ |
+| --- |
+| Files deleted using this tool will be __permanently__ deleted and are __not recoverable__. Use with care. You have been warned.|
+
 ## Outputs
 Sucessful operations will be output to the O-Output. If the file could not be deleted (most likely due to file locking issues) the outut will be sent to the E output 
 along with the error reason
