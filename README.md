@@ -18,7 +18,7 @@ This tool accepts a single input. The tool should be mapped to the __full path__
 | Files deleted using this tool will be __permanently__ deleted and are __not recoverable__. Use with care. You have been warned.|
 
 ## Outputs
-Sucessful operations will be output to the O-Output. If the file could not be deleted (most likely due to __file locking__ issues) the outut will be sent to the E-Output 
+Successful operations will be output to the O-Output. If the file could not be deleted (most likely due to __file locking__ issues) the output will be sent to the E-Output 
 along with the error reason.
 
 ## Usage
